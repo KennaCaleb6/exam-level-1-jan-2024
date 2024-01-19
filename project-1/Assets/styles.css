@@ -1,0 +1,42 @@
+.container{
+  margin: auto;
+
+} 
+table, th, td {
+  border: 1px solid black;
+  border-style: dotted;
+  border-collapse: collapse;
+}
+table{
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 40%;
+  text-align: center;
+
+}
+.fa-solid .fa-check{
+  background-color: green;
+}
+ th, td{
+  border: 1px soild #dddddd;
+  margin: 10px 10px;
+}
+tfoot{
+  m;
+}
+th.orange{
+  background-color: #ff4500;
+  color: #fff;
+}
+th.blue{
+  background-color: #1e90ff;
+  color: #fff;
+}
+th.some-color{
+  background-color: #008081;
+  color: #fff;
+}
+th{
+  font-weight: 100;
+  padding: 10px;
+}
